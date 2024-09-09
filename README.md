@@ -6,7 +6,7 @@
 - ✉️ Quer entrar em contato comigo? Envie um e-mail para augustocrosara@hotmail.com <br>
 
 ## Sobre mim:
-Sou o Augusto, tenho 27 anos formado em ciência de dados. Já estou no mercado de TI (dev e dados) a 3 anos 
+Sou o Augusto, tenho 27 anos, formado em ciência de dados. Já estou no mercado de TI (dev e dados) a 3 anos 
 <br>
 ### Hard Skills:
 . Python <br>
