@@ -24,6 +24,8 @@ Sou o Augusto, tenho 27 anos formado em ciência de dados. Já estou no mercado 
 . Aprendo rápido <br>
 . Autodidata <br>
 <br>
-Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico. <br>
+Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico. 
+<br>
+<br>
 No GitHub, publico vários projetos pessoais relacionados à análise de dados e ciência de dados. <br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
