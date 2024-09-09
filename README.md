@@ -8,21 +8,21 @@
 ## Sobre mim:
 Sou o Augusto, tenho 27 anos formado em ciência de dados. Já estou no mercado de TI (dev e dados) a 3 anos <br>
 ### Hard Skills:
-. Python
-. SQL
-. Estatística aplicada à análise de dados
-. Excel e VBA
-. Power BI e Power Query
-. Git & Version Control
+. Python <br>
+. SQL <br>
+. Estatística aplicada à análise de dados <br>
+. Excel e VBA <br>
+. Power BI e Power Query <br>
+. Git & Version Control <br>
 <br>
 <br>
 ### Soft Skills:
-. Comunicativo
-. Trabalho em equipe
-. Proatividade
-. Senso de liderança
-. Aprendo rápido
-. Autodidata
+. Comunicativo <br>
+. Trabalho em equipe <br>
+. Proatividade <br>
+. Senso de liderança <br>
+. Aprendo rápido <br>
+. Autodidata <br>
 <br>
 <br>
 Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
