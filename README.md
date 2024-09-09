@@ -4,10 +4,9 @@
 - 🌍 Tenho experiência com Python, SQL, Power BI, Power Query, Pentaho, Excel, VBA <br>
 - 🎲 Trabalhei como freelancer em projetos de extração de dados e criação de Dashboards <br>
 - ✉️ Quer entrar em contato comigo? Envie um e-mail para augustocrosara@hotmail.com <br>
-<br>
+
 ## Sobre mim:
-Sou o Augusto, tenho 27 anos formado em ciência de dados. Já estou no mercado de TI (dev e dados) a 3 anos
-<br>
+Sou o Augusto, tenho 27 anos formado em ciência de dados. Já estou no mercado de TI (dev e dados) a 3 anos <br>
 ### Hard Skills:
 . Python
 . SQL
